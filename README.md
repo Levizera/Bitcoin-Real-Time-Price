@@ -1,5 +1,13 @@
-# Veja Todos os Detalhes sobre o App nos Links Abaixo
+# Preço do Bitcoin em Tempo Real
 
-# [APP] (https://bitcoinrealtimeprice.herokuapp.com)
+## Como funciona o App?
 
-# [DIÁRIO DO APP] (https://www.notion.so/Real-Time-Bitcoin-Page-f1e05b35c96445fab71384f536463049)
+Basicamente é uma página que acompanha o preço do bitcoin em Tempo Real
+
+## Veja o App funcionando no Clicando no Botão Abaixo
+
+### [APP](https://bitcoinrealtimeprice.herokuapp.com)
+
+## Veja como o APP foi feito e tudo que foi usado nesse Projeto
+
+### [POR BAIXO DOS PANOS](https://www.notion.so/Real-Time-Bitcoin-Page-f1e05b35c96445fab71384f536463049)
