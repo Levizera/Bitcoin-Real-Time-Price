@@ -4,7 +4,7 @@
 
 Basicamente é uma página que acompanha o preço do bitcoin em Tempo Real
 
-## Veja o App funcionando no Clicando no Botão Abaixo
+## Clique no Botão abaixo para ver o APP funcionando
 
 ### [APP](https://bitcoinrealtimeprice.herokuapp.com)
 
